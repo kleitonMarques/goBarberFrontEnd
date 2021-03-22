@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 
 const SignIn: React.FC = () => <h1>SignIn</h1>;
 
