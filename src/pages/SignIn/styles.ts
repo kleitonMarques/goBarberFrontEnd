@@ -34,7 +34,7 @@ export const Content = styled.div`
       width: 100%;
       color: #f4ede8;
 
-      &:::placeholder {
+      &::placeholder {
         color: #666360;
       }
 
